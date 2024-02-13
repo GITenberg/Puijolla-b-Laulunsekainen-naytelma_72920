@@ -1,0 +1,29 @@
+_repo: Puijolla-b-Laulunsekainen-naytelma_72920
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Killinen, Kustaa
+    alias: K-ll-n, K.
+    birthdate: 1849
+    deathdate: 1922
+    gutenberg_agent_id: '52589'
+    url: http://www.gutenberg.org/2009/agents/52589
+    wikipedia: https://fi.wikipedia.org/wiki/Kustaa_Killinen
+description: ''
+gutenberg_issued: '2024-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72920'
+language: fi
+pgterms:marc905: 20231219103554killinen
+pgterms:marc906: '1885'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aKuopio :$bG. Bergroth, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Puijolla : $b Laulunsekainen näytelmä'
+url: http://www.gutenberg.org/ebooks/72920
